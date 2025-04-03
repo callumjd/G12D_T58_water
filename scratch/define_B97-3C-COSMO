@@ -1,0 +1,50 @@
+
+CONF_1
+a coord
+ired
+*
+no
+b all def2-mTZVP
+*
+eht
+
+0
+
+
+
+dft
+on
+func b97-3c
+*
+dft
+on
+func b97-3c
+*
+dft
+on
+func b97-3c
+*
+dft
+on
+func b97-3c
+grid m4
+*
+dft
+on
+func b97-3c
+*
+ri
+on
+m 500 
+
+scf
+iter
+200
+damp
+
+0.050
+0.050
+
+
+*
+

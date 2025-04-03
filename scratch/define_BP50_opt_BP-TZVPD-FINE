@@ -1,0 +1,49 @@
+
+CONF_1
+a coord
+ired
+*
+no
+b all def-TZVP
+*
+eht
+
+0
+
+
+
+dft
+on
+func b-p
+*
+dft
+on
+func b-p
+*
+dft
+on
+func b-p
+*
+dft
+on
+func b-p
+*
+dft
+on
+func b-p
+*
+ri
+on
+m 500 
+
+scf
+iter
+100
+damp
+
+0.050
+0.050
+
+
+*
+
