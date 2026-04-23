@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+
+# https://github.com/jmetzen/bayesian_optimization/blob/master/bayesian_optimization/acquisition_functions.py
+
 import pandas as pd
 import os
 import numpy as np
